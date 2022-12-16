@@ -1,1 +1,2 @@
 # strapiNextTemplate
+# strapiNextTemplate
